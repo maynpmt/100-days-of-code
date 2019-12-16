@@ -19,8 +19,20 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: December 15, Saturday
+### Day 1: December 14, Saturday
 
 **Today's Progress**: Completed basic HTML and HTML5 on FreeCodeCamp.
 
 **Thoughts**: I used to learn html a little bit since long time ago.. i feel so good because this very easy and i want to learn new programming language.
+
+### Day 2: December 15, Sunday
+
+**Today's Progress**: Completed 6/44 basic css on FreeCodeCamp.
+
+**Thoughts**: chillin
+
+### Day 3: December 16, Monday
+
+**Today's Progress**:  Completed 23/44 basic css on FreeCodeCamp.
+
+**Thoughts**: i forgot to put semicolon(;) after background-color and i'm a little confused about margin and padding.. i will look up tonight 
